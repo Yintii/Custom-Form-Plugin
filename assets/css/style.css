@@ -1,0 +1,23 @@
+#heart-vending-form{
+    display:flex;
+    flex-flow: column nowrap;
+}
+
+#heart-vending-form input[type="text"]{
+    margin-bottom: 10px;
+}
+
+#heart-vending-form .form-group{
+    display:flex;
+    flex-flow: column nowrap;
+    margin: 20px 0;
+}
+
+#heart-vending-form label{
+    font-size:18px;
+}
+
+
+#heart-vending-form textarea{
+    margin-top: 10px;
+}
